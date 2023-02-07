@@ -1,0 +1,30 @@
+* {
+    box-sizing: border-box;
+}
+
+header, footer {
+    height: 100px;
+    border: 3px solid black;
+    clear: both;
+    width: 100%;
+}
+
+.div1 section {
+    border: 3px solid black;
+    height: 200px;
+    width: 100%;
+}
+
+.div2 section {
+    border: 3px solid black;
+    height: 200px;
+    float: left;
+}
+
+#section2 {
+    width: 40%;
+}
+
+#section3 {
+    width: 60%;
+}
